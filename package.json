@@ -1,0 +1,27 @@
+{
+  "name": "@luzmcosta/jsa",
+  "version": "0.0.1",
+  "description": "macOS automation with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luzmcosta/jsa.git"
+  },
+  "keywords": [
+    "macOS",
+    "Automator",
+    "Apple",
+    "JavaScript",
+    "voice",
+    "dictation"
+  ],
+  "author": "Luz M. Costa <luzmcosta@gmail.com> (luzmcosta.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/luzmcosta/jsa/issues"
+  },
+  "homepage": "https://github.com/luzmcosta/jsa#readme"
+}
